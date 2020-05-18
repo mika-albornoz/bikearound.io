@@ -93,8 +93,9 @@
 
 header {
 	grid-area: h;
-	display: none;
+	display: flex;
 	margin-right: -15px;
+	background-color:red;
 }
 
 .logo {
